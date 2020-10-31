@@ -1,5 +1,8 @@
-## Tema 1 - Introducción: conceptos y soporte físico
+## Tema 1 - Introducción: conceptos y soporte físico.
 
+---
+
+Contenido teórico [aquí](https://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico).
 
 ---
 1. Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años. Consultar [este artículo en Infoautónomos sobre el tema](https://www.infoautonomos.com/consultas-a-la-comunidad/988/).
