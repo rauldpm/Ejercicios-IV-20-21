@@ -6,6 +6,9 @@ language: java
 # Especifica la version de jdk
 jdk:
     - openjdk8
+    - openjdk10
+    - openjdk11
+    - oraclejdk11
 
 # Especifica el SO y la distribución a usar
 arch: amd64
