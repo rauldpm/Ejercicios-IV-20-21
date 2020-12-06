@@ -1,0 +1,21 @@
+{
+  "name": "6-microservicios",
+  "version": "1.0.0",
+  "description": "Ejercicios tema 6 microservicios",
+  "main": "index.js",
+  "scripts": {
+    "etcd3": "node ejer1/etcd.js",
+    "express": "node ejer2/express.js",
+    "express_var": "node ejer3/express_var.js",
+    "test": "mocha ejer4/test.js"
+  },
+  "author": "Raul Del Pozo Moreno",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "etcd3": "^1.1.0",
+    "express": "^4.17.1",
+    "mocha": "^8.2.1"
+  }
+}
