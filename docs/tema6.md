@@ -2,7 +2,7 @@
 
 ---
 
-Contenido teórico [aquí](https://jj.github.io/IV/documentos/temas/Microservicios y [aquí](https://github.com/JJ/IV/blob/master/documentos/temas/Microservicios.md).
+Contenido teórico [aquí](https://jj.github.io/IV/documentos/temas/Microservicios) y [aquí](https://github.com/JJ/IV/blob/master/documentos/temas/Microservicios.md).
 
 ---
 1. Instalar etcd3, averiguar qué bibliotecas funcionan bien con el lenguaje que estemos escribiendo el proyecto (u otro lenguaje), y hacer un pequeño ejemplo de almacenamiento y recuperación de una clave; hacer el almacenamiento desde la línea de órdenes (con etcdctl) y la recuperación desde el mini-programa que hagáis.
@@ -55,7 +55,7 @@ Esto lanzara un servidor y estará a la escucha en el puerto 8080:
 
 ![express run](img/Tema6/express_run.png)
 
-Si se navega a la dirección "http://127.0.0.1:8080/", se podrá observar los datos json indicados en el fichero:
+Si entonces se navega a la dirección "http://127.0.0.1:8080/", se podrá observar los datos json indicados en el fichero:
 
 ![express json](img/Tema6/express_json.png)
 
@@ -75,7 +75,7 @@ Para ejecutar hay que utilizar la orden:
 
 > npm run express_var
 
-Y si se navega a la dirección anteriormente indicada se obtiene lo siguiente:
+Y si entonces se navega a la dirección anteriormente indicada se obtiene lo siguiente:
 
 ![express var](img/tema6/../Tema6/express_var.png)
 
@@ -89,6 +89,8 @@ Para este ejercicio voy a utilizar Chai, Chai-http y Mocha, los cuales instalo m
 > npm i --save chai-http
 > 
 > npm i --save mocha
+
+El fichero que contiene los test es [test.js](../6-microservicios/ejer4/test.js).
 
 Asi, ahora para ejecutar el test, no se especifica "node" en el script de [package.json](../6-microservicios/package.json), sino "mocha".
 
