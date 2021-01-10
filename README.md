@@ -8,3 +8,4 @@ Ejercicios de la asignatura IV del curso 20-21.
 - Tema 4 - [Integración continua](docs/tema4.md).
 - Tema 5 - [Serverless computing](docs/tema5.md).
 - Tema 6 - [Microservicios](docs/tema6.md).
+- Tema 7 - [PaaS](docs/tema7.md).
